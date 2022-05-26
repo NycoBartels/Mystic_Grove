@@ -175,11 +175,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   WeaponName: Blaster
-  WeaponIcon: {fileID: 21300000, guid: 3c187e19c32c13542ba8a0c1a3a88ece, type: 3}
+  WeaponIcon: {fileID: 21300000, guid: a5a51f71f86b00c4ab2ff7e297a211af, type: 3}
   CrosshairDataDefault:
-    CrosshairSprite: {fileID: 21300000, guid: 4e3fbaff6657e3c4793f091ea553788b, type: 3}
+    CrosshairSprite: {fileID: 21300000, guid: a5a51f71f86b00c4ab2ff7e297a211af, type: 3}
     CrosshairSize: 30
-    CrosshairColor: {r: 0.6650944, g: 1, b: 0.95784, a: 0.6117647}
+    CrosshairColor: {r: 0.9811321, g: 0.0509078, b: 0.7452741, a: 0.6117647}
   CrosshairDataTargetInSight:
     CrosshairSprite: {fileID: 21300000, guid: e881aa18189b12f4e915fc5b14ddc421, type: 3}
     CrosshairSize: 40
