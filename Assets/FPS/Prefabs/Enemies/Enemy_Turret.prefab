@@ -320,7 +320,7 @@ MonoBehaviour:
   OnDetectVfx:
   - {fileID: 7957976818100458430}
   - {fileID: 4008264615443136680}
-  OnDetectSfx: {fileID: 8300000, guid: 7fac2ef5c59df1a45985d3eb894e8d47, type: 3}
+  OnDetectSfx: {fileID: 8300000, guid: 32000f9741369974b937dbdbee23d8c5, type: 3}
 --- !u!114 &8502097699347725703
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -711,7 +711,7 @@ MonoBehaviour:
   WeaponAnimator: {fileID: 0}
   MuzzleFlashPrefab: {fileID: 638502610521960261}
   UnparentMuzzleFlash: 0
-  ShootSfx: {fileID: 8300000, guid: 0d44f0cb2e91f5f4ca09aded9a1bd9ab, type: 3}
+  ShootSfx: {fileID: 8300000, guid: 0ccf9a48f608ada48ad76893ef12112e, type: 3}
   ChangeWeaponSfx: {fileID: 0}
   UseContinuousShootSound: 0
   ContinuousShootStartSfx: {fileID: 0}
